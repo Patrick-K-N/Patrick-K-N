@@ -1,16 +1,17 @@
-### Hi there 👋
+![Your image here](/path/to/image.png)
 
-<!--
-**Patrick-K-N/Patrick-K-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me**
 
-Here are some ideas to get you started:
+I am a learner in software development as a full-stack developer. I am passionate about building innovative and user-friendly applications. I am also a voracious reader of novels and enjoy writing about software development on my personal website: [webxcorporation.wordpress.com](webxcorporation.wordpress.com).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+
+* Programming languages: Python, JavaScript, Java, C++, R
+* Web development frameworks: Django, React, Spring Boot
+* Cloud computing platforms: AWS, Azure
+* Databases: MySQL, PostgreSQL, MongoDB
+
+  
+**Contact me**
+
+If you have any questions or would like to collaborate on a project, please feel free to contact me at [patrickzzed@gmail.com](patrickzzed@gmail.com).
