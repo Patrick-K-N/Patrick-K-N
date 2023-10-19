@@ -1,4 +1,4 @@
-![Your image here](/path/to/image.png)
+![img](img.gif)
 
 **About me**
 
