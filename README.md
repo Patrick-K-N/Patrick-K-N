@@ -11,5 +11,5 @@ As a front-end developer, I build innovative and user-friendly applications. I a
 
 If you have any questions or would like to collaborate on a project, please feel free to contact me at [Gmail](mailto:patrickzzed@gmail.com), and visit my website [WebX](http://webxcorporation.wordpress.com)
 
-### Enjoy Random Quotes
+**Enjoy Random Quotes!**
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
